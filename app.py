@@ -61,7 +61,7 @@ def on_change(change):
                 gr.Slider(label="Точка старта функции", minimum=1, step=1, maximum=9999999999999999, randomize=True)
             ],
             outputs='image',
-            title='DIAMONIK7777 - txt2img - SD -Multy - Model',
+            title='DIAMONIK7777 - txt2img - Multy - Model',
             description="<p style='text-align: center'>Будь в курсе обновлений <a href='https://vk.com/public221489796'>ПОДПИСАТЬСЯ</a></p>",
             article="<br><br><p style='text-align: center'>Генерация индивидуальной модели с собственной внешностью <a href='https://vk.com/im?sel=-221489796'>ПОДАТЬ ЗАЯВКУ</a></p><br><br><br><br><br>",
         ).launch(debug=True, max_threads=True, share=True, inbrowser=True)
