@@ -9,7 +9,7 @@ from diffusers import DiffusionPipeline
 import gradio as gr
 
 link0 = ''
-link1 = 'dreamlike-art/dreamlike-photoreal-1.0'
+link1 = 'DmatryMakeev/asic'
 link2 = 'dreamlike-art/dreamlike-photoreal-2.0'
 link3 = 'dreamlike-art/dreamlike-anime-1.0'
 link4 = 'dreamlike-art/dreamlike-diffusion-1.0'
